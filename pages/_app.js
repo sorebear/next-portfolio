@@ -1,4 +1,3 @@
-import '@styles/globals.css';
 import '@sass/main.scss';
 
 function Application({ Component, pageProps }) {

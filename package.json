@@ -13,7 +13,9 @@
     "prop-types": "^15.8.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "smoothscroll": "^0.4.0"
+    "smoothscroll": "^0.4.0",
+    "typography": "^0.16.24",
+    "typography-theme-alton": "^0.16.19"
   },
   "devDependencies": {
     "sass": "^1.66.1"
